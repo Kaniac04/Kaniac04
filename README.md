@@ -38,9 +38,9 @@ I love exploring efficient AI infrastructure, open-source LLM deployment, semant
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🤖 Excel-lent-AI
+## Excel-lent-AI
 
 Production-ready AI interview platform powered by local Large Language Models.
 
