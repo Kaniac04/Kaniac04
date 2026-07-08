@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0077FF&height=160&section=header&text=Aayushmaan%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> •
+  <a href="./README.ja.md">🇯🇵 日本語</a>
+</p>
+
 <h1 align="center">Hi I'm Aayushmaan Garg</h1>
 
 <h3 align="center">
